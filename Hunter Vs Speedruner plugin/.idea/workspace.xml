@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Hunter Vs Speedruner plugin:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2102ca5d-989c-412c-a4e5-3ead339225a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bJPORHATbnEeVh5vjVhLMDZsuG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="hunter_vs_speedruner_plugin" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/happymc/mcss/servers/huntervsspeed/plugins/RandomMobSpawnHvsP-1.0-SNAPSHOT.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Hunter Vs Speedruner plugin build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2102ca5d-989c-412c-a4e5-3ead339225a9" name="Default Changelist" comment="" />
+      <created>1588347190318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588347190318</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Inspections" timestamp="1591048389033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1591048389033" />
+    <state x="552" y="178" width="816" height="729" key="#Intentions" timestamp="1590892454981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="816" height="729" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1590892454981" />
+    <state x="552" y="180" key="#Project_Structure" timestamp="1588433733098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="180" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1588433733098" />
+    <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588369436929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588369436929" />
+    <state x="756" y="381" width="485" height="316" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591714266429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="381" width="485" height="316" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1591714266429" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591189628976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591189628976" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1591580405543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591580405543" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1591739370373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1080.1280.720/0.-2160.1280.720/0.-3240.1280.720@0.0.1920.1040" timestamp="1590525172534" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591739370373" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1591739370373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="298" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1080.1280.720/0.-2160.1280.720/0.-3240.1280.720@0.0.1920.1040" timestamp="1590525172534" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591739370373" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1591739370373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="298" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1080.1280.720/0.-2160.1280.720/0.-3240.1280.720@0.0.1920.1040" timestamp="1590525172534" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591739370373" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1591739370373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="298" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1080.1280.720/0.-2160.1280.720/0.-3240.1280.720@0.0.1920.1040" timestamp="1590525172534" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591739370373" />
+    <state x="596" y="115" width="998" height="716" key="SettingsEditor" timestamp="1591729698011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="596" y="115" width="998" height="716" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591729698011" />
+    <state x="482" y="268" key="caller.chooser.dialog" timestamp="1589557232437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="482" y="268" key="caller.chooser.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589557232437" />
+    <state x="1245" y="389" key="com.intellij.ide.util.TipDialog" timestamp="1591796666498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/0.-1080.1280.720/0.-2160.1280.720/0.-3240.1280.720@0.0.1920.1040" timestamp="1590524365772" />
+    <state x="1245" y="389" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591796666498" />
+    <state x="70" y="50" width="1235" height="662" key="new project wizard" timestamp="1591729684341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="70" y="50" width="1235" height="662" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591729684341" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1590346003269">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590346003269" />
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1591544060131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591544060131" />
+  </component>
+</project>

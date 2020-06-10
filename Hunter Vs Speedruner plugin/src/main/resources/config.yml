@@ -1,0 +1,12 @@
+
+#compass
+StartWithCompass: false
+ShowYCompass: true
+KeepCompass: true
+CompassEnabled: true
+trackNetherPortal: true
+#game
+spectateBlind: false
+KickOnDie: false
+seconds: 30
+delele: false

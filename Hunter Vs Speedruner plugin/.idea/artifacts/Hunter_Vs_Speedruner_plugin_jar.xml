@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hunter Vs Speedruner plugin:jar">
+    <output-path>D:/happymc/mcss/servers/huntervsspeed/plugins</output-path>
+    <root id="archive" name="Hunter Vs Speedruner plugin.jar">
+      <element id="module-output" name="Hunter Vs Speedruner plugin" />
+    </root>
+  </artifact>
+</component>

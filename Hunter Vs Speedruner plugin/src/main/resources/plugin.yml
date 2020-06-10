@@ -1,0 +1,16 @@
+name: Huntervsspeed
+version: ${project.version}
+main: com.OakleyPlugins.huntervsspeed.Huntervsspeed
+api-version: 1.13
+load: STARTUP
+commands:
+  StartGame:
+    description: Start the game
+  AddRunner:
+    description: Add a SpeedRunner
+  RemoveRunner:
+    description: Remove a SpeedRunner
+  TpTo:
+    description: Teleport to a player
+  Settings:
+    description: settings
